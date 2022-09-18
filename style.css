@@ -1,0 +1,37 @@
+ html, body {
+    height: 100%;
+    width: 100%;
+ }
+
+ .button {
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black; 
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: rgb(251, 255, 0);
+ }
+
+ .row {
+    margin: 8px 0;
+ }
+
+ .row input{
+   width: 291px;
+   font-size: 23px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+ }
+
+ .footer {
+   position: fixed;
+   height: 50px;
+   background-color: gray;
+   bottom: 0px;
+   left: 0px;
+   right: 0px;
+   margin-bottom: 0px;
+}
